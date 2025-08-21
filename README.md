@@ -23,12 +23,13 @@ Now we're cooking. The server's waking up, stretching its limbs.
 
 Then, bravely venture to:
 
-👉 [[http://localhost:3000](http://localhost:5173/star-wars/)]
+👉 [[http://localhost:5173/star-wars/](http://localhost:5173/star-wars/)]
 (Yes, localhost. Because global domination starts at home.)
 
 ## ⚠️ Disclaimer
 This code was written with at least 3 cups of coffee and a questionable amount of sleep.
 No bugs were harmed in the making of this app — they’re all alive and well.
+
 
 
 
